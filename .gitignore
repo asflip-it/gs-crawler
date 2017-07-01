@@ -1,4 +1,5 @@
 log/
 data/
 *.pyc
+*.swp
 notebooks_/.ipynb_checkpoints
